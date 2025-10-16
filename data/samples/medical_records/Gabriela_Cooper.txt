@@ -1,0 +1,11 @@
+Patient ID: faf62627-fba0-430d-ab17-ecc404a40aea
+Name: Gabriela Cooper
+DOB: 1951-01-15
+Gender: Male
+Diagnosis: Diabetes
+Medication: Levothyroxine
+Doctor: Dr. Smith
+Visit Date: 2025-04-25
+Insurance ID: INS7630-8190
+Follow-up Days: 10
+Visit Notes: During the visit, patient reported symptoms consistent with Diabetes. Prescribed Levothyroxine.

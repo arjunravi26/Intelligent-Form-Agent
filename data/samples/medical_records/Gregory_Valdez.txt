@@ -1,0 +1,11 @@
+Patient ID: 8b72d86f-a911-4cd2-be0c-a85fee1f1ddd
+Name: Gregory Valdez
+DOB: 1974-02-07
+Gender: Female
+Diagnosis: COPD
+Medication: Sertraline
+Doctor: Dr. Wilson
+Visit Date: 2025-04-04
+Insurance ID: INS0925-8488
+Follow-up Days: 86
+Visit Notes: Patient presents with COPD. Recommended Sertraline and advised follow-up in 86 days.

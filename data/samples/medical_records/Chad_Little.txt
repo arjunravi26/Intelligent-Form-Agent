@@ -1,0 +1,11 @@
+Patient ID: 0537b0e6-319a-4dfe-aeba-cf949a1b671c
+Name: Chad Little
+DOB: 1986-09-05
+Gender: Other
+Diagnosis: Anxiety
+Medication: Albuterol
+Doctor: Dr. Wilson
+Visit Date: 2025-10-13
+Insurance ID: INS4086-6916
+Follow-up Days: 21
+Visit Notes: During the visit, patient reported symptoms consistent with Anxiety. Prescribed Albuterol.

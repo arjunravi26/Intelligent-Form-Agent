@@ -1,0 +1,11 @@
+Patient ID: caece3c6-20e0-4bc3-b739-5623d72dc899
+Name: Karen Case
+DOB: 1994-11-19
+Gender: Female
+Diagnosis: Coronary Artery Disease
+Medication: Sertraline
+Doctor: Dr. Wilson
+Visit Date: 2025-05-28
+Insurance ID: INS1125-1911
+Follow-up Days: 52
+Visit Notes: Patient presents with Coronary Artery Disease. Recommended Sertraline and advised follow-up in 52 days.

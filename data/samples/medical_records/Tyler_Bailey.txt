@@ -1,0 +1,11 @@
+Patient ID: b2f9e8dc-957c-476f-be16-f91f4a3fac49
+Name: Tyler Bailey
+DOB: 1983-04-24
+Gender: Other
+Diagnosis: Migraine
+Medication: Aspirin
+Doctor: Dr. Johnson
+Visit Date: 2025-06-23
+Insurance ID: INS9554-1420
+Follow-up Days: 60
+Visit Notes: Patient presents with Migraine. Recommended Aspirin and advised follow-up in 60 days.

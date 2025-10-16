@@ -1,0 +1,11 @@
+Patient ID: 38d13cd1-f5e4-4930-877f-99baf9c5c584
+Name: Patrick Mccoy
+DOB: 1998-10-11
+Gender: Male
+Diagnosis: COPD
+Medication: Sertraline
+Doctor: Dr. Johnson
+Visit Date: 2025-05-27
+Insurance ID: INS1894-0674
+Follow-up Days: 76
+Visit Notes: Patient presents with COPD. Recommended Sertraline and advised follow-up in 76 days.

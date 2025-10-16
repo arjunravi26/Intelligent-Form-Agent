@@ -1,0 +1,11 @@
+Patient ID: 7c7700d5-4cbe-4b79-8cd9-2532212585e0
+Name: David Newman
+DOB: 1995-02-18
+Gender: Female
+Diagnosis: Coronary Artery Disease
+Medication: Fluoxetine
+Doctor: Dr. Brown
+Visit Date: 2025-03-15
+Insurance ID: INS1140-2530
+Follow-up Days: 8
+Visit Notes: During the visit, patient reported symptoms consistent with Coronary Artery Disease. Prescribed Fluoxetine.

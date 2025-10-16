@@ -1,0 +1,11 @@
+Patient ID: 78660a82-cfb8-4fd4-8f0d-76e6e05935c9
+Name: Stephen Jensen
+DOB: 1994-02-06
+Gender: Male
+Diagnosis: Hypertension
+Medication: Metformin
+Doctor: Dr. Johnson
+Visit Date: 2025-06-21
+Insurance ID: INS6687-4618
+Follow-up Days: 81
+Visit Notes: During the visit, patient reported symptoms consistent with Hypertension. Prescribed Metformin.
