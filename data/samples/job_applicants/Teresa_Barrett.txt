@@ -1,0 +1,10 @@
+Name: Teresa Barrett
+Email: panderson@example.com
+Phone: (840)455-3740
+Job Applied: Software Engineer
+Industry: e-commerce
+Skills: Algorithms, CI/CD, Java, Agile Methodologies, Data Structures
+Current Salary: 19 LPA
+Expected Salary: 23 LPA
+Years of Experience: 7
+About Me: With 7 years in e-commerce, I have honed my skills in Algorithms, CI/CD, Java, Agile Methodologies, Data Structures. I value teamwork and continuous learning.

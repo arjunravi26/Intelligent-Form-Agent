@@ -1,0 +1,10 @@
+Name: Luke Lutz
+Email: valerieturner@example.com
+Phone: 001-605-896-3582x674
+Job Applied: Backend Engineer
+Industry: AI research
+Skills: Java, SQL, REST API, Spring Boot, Git
+Current Salary: 18 LPA
+Expected Salary: 35 LPA
+Years of Experience: 3
+About Me: As a Backend Engineer, I have a strong background in Java, SQL, REST API, Spring Boot, Git, and I am eager to contribute my expertise to innovative projects.

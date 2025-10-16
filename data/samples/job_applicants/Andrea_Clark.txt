@@ -1,0 +1,10 @@
+Name: Andrea Clark
+Email: michelle90@example.org
+Phone: 545-565-0141
+Job Applied: Backend Engineer
+Industry: e-commerce
+Skills: Java, NoSQL, SQL, GraphQL, Django
+Current Salary: 10 LPA
+Expected Salary: 15 LPA
+Years of Experience: 4
+About Me: I am a passionate Backend Engineer with 4 years of experience specializing in Java, NoSQL, SQL, GraphQL, Django. I enjoy solving complex problems and working in e-commerce.

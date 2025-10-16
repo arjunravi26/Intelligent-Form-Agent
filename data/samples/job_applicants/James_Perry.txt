@@ -1,0 +1,10 @@
+Name: James Perry
+Email: zlopez@example.net
+Phone: 630-737-6749x7706
+Job Applied: Front-end Engineer
+Industry: AI research
+Skills: Bootstrap, Next.js, CSS, JavaScript, Tailwind CSS
+Current Salary: 16 LPA
+Expected Salary: 47 LPA
+Years of Experience: 9
+About Me: With 9 years in AI research, I have honed my skills in Bootstrap, Next.js, CSS, JavaScript, Tailwind CSS. I value teamwork and continuous learning.

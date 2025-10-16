@@ -1,0 +1,10 @@
+Name: Carol Murphy
+Email: clarknathaniel@example.com
+Phone: 712.650.4930
+Job Applied: Software Engineer
+Industry: finance
+Skills: Data Structures, Databases, REST API, Python, C++
+Current Salary: 21 LPA
+Expected Salary: 40 LPA
+Years of Experience: 10
+About Me: As a Software Engineer, I have a strong background in Data Structures, Databases, REST API, Python, C++, and I am eager to contribute my expertise to innovative projects.

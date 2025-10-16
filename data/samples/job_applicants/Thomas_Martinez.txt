@@ -1,0 +1,10 @@
+Name: Thomas Martinez
+Email: charlescarr@example.net
+Phone: 255.874.6916x7210
+Job Applied: AI Engineer
+Industry: finance
+Skills: vLLm, API development, GPT, LoRa, QLoRa
+Current Salary: 21 LPA
+Expected Salary: 36 LPA
+Years of Experience: 2
+About Me: As a AI Engineer, I have a strong background in vLLm, API development, GPT, LoRa, QLoRa, and I am eager to contribute my expertise to innovative projects.

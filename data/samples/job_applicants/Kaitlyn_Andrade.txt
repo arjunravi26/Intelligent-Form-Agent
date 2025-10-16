@@ -1,0 +1,10 @@
+Name: Kaitlyn Andrade
+Email: joshuamoore@example.net
+Phone: 413-354-8157x3342
+Job Applied: Software Engineer
+Industry: finance
+Skills: Docker, Git, Algorithms, Microservices, CI/CD
+Current Salary: 6 LPA
+Expected Salary: 18 LPA
+Years of Experience: 9
+About Me: With 9 years in finance, I have honed my skills in Docker, Git, Algorithms, Microservices, CI/CD. I value teamwork and continuous learning.

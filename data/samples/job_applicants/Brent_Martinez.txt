@@ -1,0 +1,10 @@
+Name: Brent Martinez
+Email: amyperez@example.org
+Phone: (458)576-5618x70839
+Job Applied: Backend Engineer
+Industry: finance
+Skills: Docker, SQL, Microservices, REST API, Spring Boot
+Current Salary: 7 LPA
+Expected Salary: 8 LPA
+Years of Experience: 5
+About Me: With 5 years in finance, I have honed my skills in Docker, SQL, Microservices, REST API, Spring Boot. I value teamwork and continuous learning.

@@ -1,0 +1,10 @@
+Name: Courtney Zavala
+Email: levinegeorge@example.net
+Phone: +1-566-835-9830x80882
+Job Applied: Backend Engineer
+Industry: AI research
+Skills: Java, Python, Spring Boot, SQL, GraphQL
+Current Salary: 14 LPA
+Expected Salary: 42 LPA
+Years of Experience: 5
+About Me: With 5 years in AI research, I have honed my skills in Java, Python, Spring Boot, SQL, GraphQL. I value teamwork and continuous learning.

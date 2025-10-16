@@ -1,0 +1,10 @@
+Name: John Phillips
+Email: leonard67@example.net
+Phone: 218.984.0382x45188
+Job Applied: Data Scientist
+Industry: finance
+Skills: Data Preprocessing, Model Evaluation, Python, Seaborn, NLP
+Current Salary: 23 LPA
+Expected Salary: 27 LPA
+Years of Experience: 2
+About Me: I am a passionate Data Scientist with 2 years of experience specializing in Data Preprocessing, Model Evaluation, Python, Seaborn, NLP. I enjoy solving complex problems and working in finance.

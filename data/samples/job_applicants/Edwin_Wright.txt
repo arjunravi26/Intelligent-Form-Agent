@@ -1,0 +1,10 @@
+Name: Edwin Wright
+Email: matthew98@example.net
+Phone: (288)926-8355x477
+Job Applied: Front-end Engineer
+Industry: AI research
+Skills: Responsive Design, TypeScript, Tailwind CSS, HTML, Next.js
+Current Salary: 8 LPA
+Expected Salary: 9 LPA
+Years of Experience: 2
+About Me: With 2 years in AI research, I have honed my skills in Responsive Design, TypeScript, Tailwind CSS, HTML, Next.js. I value teamwork and continuous learning.

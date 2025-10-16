@@ -1,0 +1,10 @@
+Name: Joe Norton
+Email: aarongonzalez@example.com
+Phone: 874.742.9259x22296
+Job Applied: QA Engineer
+Industry: healthcare
+Skills: Automation Testing, API Testing, Performance Testing, CI/CD, Cypress
+Current Salary: 10 LPA
+Expected Salary: 20 LPA
+Years of Experience: 8
+About Me: With 8 years in healthcare, I have honed my skills in Automation Testing, API Testing, Performance Testing, CI/CD, Cypress. I value teamwork and continuous learning.

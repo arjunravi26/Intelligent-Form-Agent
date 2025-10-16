@@ -1,0 +1,10 @@
+Name: Cheryl Johnson
+Email: ericksongina@example.com
+Phone: 787.787.3143x69859
+Job Applied: AI Engineer
+Industry: healthcare
+Skills: HuggingFace, Multi-Agent, Git, Multi-Model, TGI
+Current Salary: 22 LPA
+Expected Salary: 33 LPA
+Years of Experience: 4
+About Me: As a AI Engineer, I have a strong background in HuggingFace, Multi-Agent, Git, Multi-Model, TGI, and I am eager to contribute my expertise to innovative projects.
