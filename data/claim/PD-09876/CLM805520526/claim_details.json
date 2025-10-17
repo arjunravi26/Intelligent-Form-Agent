@@ -1,0 +1,22 @@
+{
+    "claim_id": "CLM805520526",
+    "claim_date": "2025-08-17",
+    "patient_info": {
+        "patient_id": "PD-09876",
+        "first_name": "Janet",
+        "last_name": "Sanchez",
+        "date_of_birth": "1983-02-07",
+        "policy_number": "P89248-80"
+    },
+    "provider_name": "Dr. Eleanor Vance (Internal Medicine)",
+    "primary_diagnosis": "Type 2 Diabetes",
+    "icd_code": "E11.9",
+    "procedure_description": "Blood Glucose Test",
+    "cpt_code": "82947",
+    "financials": {
+        "billed_amount": 2247.1,
+        "allowed_amount": 1758.74,
+        "copay": 50.0,
+        "insurance_paid": 1708.74
+    }
+}

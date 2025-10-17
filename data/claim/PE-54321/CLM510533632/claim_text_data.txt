@@ -1,0 +1,5 @@
+---CLINICAL NOTE ---
+CLINICAL NOTE: Patient Matthew Richard (Policy: P55064-76) was seen today, 2025-08-17, by Central City Hospital. The main subjective complaint was a recurrent flare-up of their **Acute Sinusitis** symptoms, which are generally well-managed. Them site reveal wait. Writer spring here when similar. Assessment determined the necessity of a diagnostic procedure to confirm the severity: **Office Visit (Established Patient)** (CPT: 99214). The diagnosis code assigned is **J01.90**. The patient was advised on the necessity of lifestyle modifications and will be starting the new medication, Metformin (500mg), immediately. Total billed charges for this visit are $3428.45. All staff were informed regarding the high priority of the patient's next appointment.
+
+---SUMMARY ---
+Claim for Acute Sinusitis (J01.90). Patient presented with symptoms requiring Office Visit (Established Patient) (99214). Recommended medication: Sumatriptan (100mg).

@@ -1,0 +1,5 @@
+---CLINICAL NOTE ---
+CLINICAL NOTE: Patient Janet Sanchez (Policy: P89248-80) was seen today, 2025-09-16, by Dr. Eleanor Vance (Internal Medicine). The main subjective complaint was a recurrent flare-up of their **Type 2 Diabetes** symptoms, which are generally well-managed. Fill once able Democrat Mr. Before already stand. Assessment determined the necessity of a diagnostic procedure to confirm the severity: **Blood Glucose Test** (CPT: 82947). The diagnosis code assigned is **E11.9**. The patient was advised on the necessity of lifestyle modifications and will be starting the new medication, Sumatriptan (100mg), immediately. Total billed charges for this visit are $2011.97. All staff were informed regarding the high priority of the patient's next appointment.
+
+---SUMMARY ---
+Claim for Type 2 Diabetes (E11.9). Patient presented with symptoms requiring Blood Glucose Test (82947). Recommended medication: Sumatriptan (100mg).

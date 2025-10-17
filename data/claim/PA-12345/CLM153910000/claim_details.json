@@ -1,0 +1,22 @@
+{
+    "claim_id": "CLM153910000",
+    "claim_date": "2025-07-17",
+    "patient_info": {
+        "patient_id": "PA-12345",
+        "first_name": "Katelyn",
+        "last_name": "Whitaker",
+        "date_of_birth": "1957-01-09",
+        "policy_number": "P49924-54"
+    },
+    "provider_name": "Dr. David Chen (Pulmonology)",
+    "primary_diagnosis": "Asthma",
+    "icd_code": "J45.909",
+    "procedure_description": "Spirometry (Lung Function Test)",
+    "cpt_code": "94010",
+    "financials": {
+        "billed_amount": 2662.08,
+        "allowed_amount": 2004.7,
+        "copay": 50.0,
+        "insurance_paid": 1954.7
+    }
+}

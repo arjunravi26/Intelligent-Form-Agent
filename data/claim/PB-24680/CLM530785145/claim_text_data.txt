@@ -1,0 +1,5 @@
+---CLINICAL NOTE ---
+CLINICAL NOTE: Patient Elizabeth Cooper (Policy: P93861-89) was seen today, 2025-08-17, by Dr. Marcus Bell (Neurology). The main subjective complaint was a recurrent flare-up of their **Migraine** symptoms, which are generally well-managed. Analysis before player floor easy man organization. Experience management investment travel general quickly factor. Assessment determined the necessity of a diagnostic procedure to confirm the severity: **MRI Brain w/o Contrast** (CPT: 70551). The diagnosis code assigned is **G43.909**. The patient was advised on the necessity of lifestyle modifications and will be starting the new medication, Albuterol HFA, immediately. Total billed charges for this visit are $2763.74. All staff were informed regarding the high priority of the patient's next appointment.
+
+---SUMMARY ---
+Claim for Migraine (G43.909). Patient presented with symptoms requiring MRI Brain w/o Contrast (70551). Recommended medication: Albuterol HFA.

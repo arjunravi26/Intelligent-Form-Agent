@@ -1,0 +1,22 @@
+{
+    "claim_id": "CLM826065261",
+    "claim_date": "2025-04-17",
+    "patient_info": {
+        "patient_id": "PE-54321",
+        "first_name": "Matthew",
+        "last_name": "Richard",
+        "date_of_birth": "1983-04-01",
+        "policy_number": "P55064-76"
+    },
+    "provider_name": "Dr. Ava Sharma (Cardiology)",
+    "primary_diagnosis": "Acute Sinusitis",
+    "icd_code": "J01.90",
+    "procedure_description": "Office Visit (Established Patient)",
+    "cpt_code": "99214",
+    "financials": {
+        "billed_amount": 2507.11,
+        "allowed_amount": 1745.91,
+        "copay": 25.0,
+        "insurance_paid": 1720.91
+    }
+}

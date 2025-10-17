@@ -1,0 +1,5 @@
+---CLINICAL NOTE ---
+CLINICAL NOTE: Patient Ross Ray (Policy: P43038-98) was seen today, 2025-08-17, by Dr. David Chen (Pulmonology). The main subjective complaint was a recurrent flare-up of their **Asthma** symptoms, which are generally well-managed. Between significant talk. Girl scientist him white. Assessment determined the necessity of a diagnostic procedure to confirm the severity: **Spirometry (Lung Function Test)** (CPT: 94010). The diagnosis code assigned is **J45.909**. The patient was advised on the necessity of lifestyle modifications and will be starting the new medication, Lisinopril (20mg), immediately. Total billed charges for this visit are $1327.03. All staff were informed regarding the high priority of the patient's next appointment.
+
+---SUMMARY ---
+Claim for Asthma (J45.909). Patient presented with symptoms requiring Spirometry (Lung Function Test) (94010). Recommended medication: Albuterol HFA.

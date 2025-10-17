@@ -1,0 +1,30 @@
+ICD_CODES:
+  Hypertension: "I10"
+  Type 2 Diabetes: "E11.9"
+  Migraine: "G43.909"
+  Asthma: "J45.909"
+  Acute Sinusitis: "J01.90"
+
+CPT_CODES:
+  Office Visit (Established Patient): "99214"
+  Office Visit (New Patient): "99203"
+  MRI Brain w/o Contrast: "70551"
+  Blood Glucose Test: "82947"
+  Echocardiogram: "93306"
+  Spirometry (Lung Function Test): "94010"
+
+DRUG_NAMES:
+  - "Lisinopril (20mg)"
+  - "Metformin (500mg)"
+  - "Atorvastatin (10mg)"
+  - "Sumatriptan (100mg)"
+  - "Albuterol HFA"
+  - "Amoxicillin (500mg)"
+  - "Fluticasone Propionate"
+
+PROVIDER_NAMES:
+  - "Dr. Eleanor Vance (Internal Medicine)"
+  - "Dr. Marcus Bell (Neurology)"
+  - "Dr. Ava Sharma (Cardiology)"
+  - "Central City Hospital"
+  - "Dr. David Chen (Pulmonology)"

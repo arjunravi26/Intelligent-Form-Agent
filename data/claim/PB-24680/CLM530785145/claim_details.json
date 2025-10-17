@@ -1,0 +1,22 @@
+{
+    "claim_id": "CLM530785145",
+    "claim_date": "2025-08-17",
+    "patient_info": {
+        "patient_id": "PB-24680",
+        "first_name": "Elizabeth",
+        "last_name": "Cooper",
+        "date_of_birth": "1972-11-01",
+        "policy_number": "P93861-89"
+    },
+    "provider_name": "Dr. Marcus Bell (Neurology)",
+    "primary_diagnosis": "Migraine",
+    "icd_code": "G43.909",
+    "procedure_description": "MRI Brain w/o Contrast",
+    "cpt_code": "70551",
+    "financials": {
+        "billed_amount": 2763.74,
+        "allowed_amount": 2162.34,
+        "copay": 75.0,
+        "insurance_paid": 2087.34
+    }
+}

@@ -1,0 +1,5 @@
+---CLINICAL NOTE ---
+CLINICAL NOTE: Patient Elizabeth Cooper (Policy: P93861-89) was seen today, 2025-07-17, by Dr. Marcus Bell (Neurology). The main subjective complaint was a recurrent flare-up of their **Migraine** symptoms, which are generally well-managed. Miss each spring benefit easy director. Give blue wear would. Assessment determined the necessity of a diagnostic procedure to confirm the severity: **MRI Brain w/o Contrast** (CPT: 70551). The diagnosis code assigned is **G43.909**. The patient was advised on the necessity of lifestyle modifications and will be starting the new medication, Fluticasone Propionate, immediately. Total billed charges for this visit are $1725.21. All staff were informed regarding the high priority of the patient's next appointment.
+
+---SUMMARY ---
+Claim for Migraine (G43.909). Patient presented with symptoms requiring MRI Brain w/o Contrast (70551). Recommended medication: Lisinopril (20mg).

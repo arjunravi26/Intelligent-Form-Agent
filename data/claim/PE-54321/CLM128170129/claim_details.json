@@ -1,0 +1,22 @@
+{
+    "claim_id": "CLM128170129",
+    "claim_date": "2025-09-16",
+    "patient_info": {
+        "patient_id": "PE-54321",
+        "first_name": "Matthew",
+        "last_name": "Richard",
+        "date_of_birth": "1983-04-01",
+        "policy_number": "P55064-76"
+    },
+    "provider_name": "Dr. Marcus Bell (Neurology)",
+    "primary_diagnosis": "Acute Sinusitis",
+    "icd_code": "J01.90",
+    "procedure_description": "Office Visit (Established Patient)",
+    "cpt_code": "99214",
+    "financials": {
+        "billed_amount": 1441.31,
+        "allowed_amount": 1139.98,
+        "copay": 25.0,
+        "insurance_paid": 1114.98
+    }
+}

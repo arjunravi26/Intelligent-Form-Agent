@@ -1,0 +1,5 @@
+---CLINICAL NOTE ---
+CLINICAL NOTE: Patient Matthew Richard (Policy: P55064-76) was seen today, 2025-09-16, by Dr. Marcus Bell (Neurology). The main subjective complaint was a recurrent flare-up of their **Acute Sinusitis** symptoms, which are generally well-managed. Employee customer share significant lead give north. Assessment determined the necessity of a diagnostic procedure to confirm the severity: **Office Visit (Established Patient)** (CPT: 99214). The diagnosis code assigned is **J01.90**. The patient was advised on the necessity of lifestyle modifications and will be starting the new medication, Albuterol HFA, immediately. Total billed charges for this visit are $1441.31. All staff were informed regarding the high priority of the patient's next appointment.
+
+---SUMMARY ---
+Claim for Acute Sinusitis (J01.90). Patient presented with symptoms requiring Office Visit (Established Patient) (99214). Recommended medication: Fluticasone Propionate.

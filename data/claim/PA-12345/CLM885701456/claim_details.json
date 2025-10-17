@@ -1,0 +1,22 @@
+{
+    "claim_id": "CLM885701456",
+    "claim_date": "2025-08-17",
+    "patient_info": {
+        "patient_id": "PA-12345",
+        "first_name": "Katelyn",
+        "last_name": "Whitaker",
+        "date_of_birth": "1957-01-09",
+        "policy_number": "P49924-54"
+    },
+    "provider_name": "Dr. Ava Sharma (Cardiology)",
+    "primary_diagnosis": "Hypertension",
+    "icd_code": "I10",
+    "procedure_description": "Echocardiogram",
+    "cpt_code": "93306",
+    "financials": {
+        "billed_amount": 582.47,
+        "allowed_amount": 412.33,
+        "copay": 75.0,
+        "insurance_paid": 337.33
+    }
+}
