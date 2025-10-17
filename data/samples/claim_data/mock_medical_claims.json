@@ -1,0 +1,362 @@
+[
+  {
+    "claim_id": "CLM266594850",
+    "claim_date": "2025-05-17",
+    "patient_info": {
+      "patient_id": "PA-12345",
+      "first_name": "Jillian",
+      "last_name": "Gonzalez",
+      "date_of_birth": "1991-06-11",
+      "policy_number": "P60578-77"
+    },
+    "provider_name": "Dr. Ava Sharma (Cardiology)",
+    "primary_diagnosis": "Hypertension",
+    "icd_code": "I10",
+    "procedure_description": "Echocardiogram",
+    "cpt_code": "93306",
+    "financials": {
+      "billed_amount": 3136.1,
+      "allowed_amount": 2396.81,
+      "copay": 75.0,
+      "insurance_paid": 2321.81
+    },
+    "extracted_summary": "Claim for Hypertension (I10). Patient presented with symptoms requiring Echocardiogram (93306). Recommended medication: Fluticasone Propionate.",
+    "note": "CLINICAL NOTE: Patient Jillian Gonzalez (Policy: P60578-77) was seen today, 2025-05-17, by Dr. Ava Sharma (Cardiology). The main subjective complaint was a recurrent flare-up of their **Hypertension** symptoms, which are generally well-managed. Common day road likely large. Organization language important dark somebody. Assessment determined the necessity of a diagnostic procedure to confirm the severity: **Echocardiogram** (CPT: 93306). The diagnosis code assigned is **I10**. The patient was advised on the necessity of lifestyle modifications and will be starting the new medication, Metformin (500mg), immediately. Total billed charges for this visit are $3136.10. All staff were informed regarding the high priority of the patient's next appointment."
+  },
+  {
+    "claim_id": "CLM309707606",
+    "claim_date": "2025-06-17",
+    "patient_info": {
+      "patient_id": "PA-12345",
+      "first_name": "Jillian",
+      "last_name": "Gonzalez",
+      "date_of_birth": "1991-06-11",
+      "policy_number": "P60578-77"
+    },
+    "provider_name": "Dr. Ava Sharma (Cardiology)",
+    "primary_diagnosis": "Hypertension",
+    "icd_code": "I10",
+    "procedure_description": "Echocardiogram",
+    "cpt_code": "93306",
+    "financials": {
+      "billed_amount": 992.97,
+      "allowed_amount": 736.35,
+      "copay": 25.0,
+      "insurance_paid": 711.35
+    },
+    "extracted_summary": "Claim for Hypertension (I10). Patient presented with symptoms requiring Echocardiogram (93306). Recommended medication: Sumatriptan (100mg).",
+    "note": "CLINICAL NOTE: Patient Jillian Gonzalez (Policy: P60578-77) was seen today, 2025-06-17, by Dr. Ava Sharma (Cardiology). The main subjective complaint was a recurrent flare-up of their **Hypertension** symptoms, which are generally well-managed. Lose executive way factor follow seem participant pass. Assessment determined the necessity of a diagnostic procedure to confirm the severity: **Echocardiogram** (CPT: 93306). The diagnosis code assigned is **I10**. The patient was advised on the necessity of lifestyle modifications and will be starting the new medication, Metformin (500mg), immediately. Total billed charges for this visit are $992.97. All staff were informed regarding the high priority of the patient's next appointment."
+  },
+  {
+    "claim_id": "CLM124095128",
+    "claim_date": "2025-07-17",
+    "patient_info": {
+      "patient_id": "PA-12345",
+      "first_name": "Jillian",
+      "last_name": "Gonzalez",
+      "date_of_birth": "1991-06-11",
+      "policy_number": "P60578-77"
+    },
+    "provider_name": "Dr. Ava Sharma (Cardiology)",
+    "primary_diagnosis": "Hypertension",
+    "icd_code": "I10",
+    "procedure_description": "Echocardiogram",
+    "cpt_code": "93306",
+    "financials": {
+      "billed_amount": 807.12,
+      "allowed_amount": 585.92,
+      "copay": 75.0,
+      "insurance_paid": 510.92
+    },
+    "extracted_summary": "Claim for Hypertension (I10). Patient presented with symptoms requiring Echocardiogram (93306). Recommended medication: Lisinopril (20mg).",
+    "note": "CLINICAL NOTE: Patient Jillian Gonzalez (Policy: P60578-77) was seen today, 2025-07-17, by Dr. Ava Sharma (Cardiology). The main subjective complaint was a recurrent flare-up of their **Hypertension** symptoms, which are generally well-managed. Appear sing trial single series nearly likely president. Fact peace business police meet hotel say such. Assessment determined the necessity of a diagnostic procedure to confirm the severity: **Echocardiogram** (CPT: 93306). The diagnosis code assigned is **I10**. The patient was advised on the necessity of lifestyle modifications and will be starting the new medication, Lisinopril (20mg), immediately. Total billed charges for this visit are $807.12. All staff were informed regarding the high priority of the patient's next appointment."
+  },
+  {
+    "claim_id": "CLM334831232",
+    "claim_date": "2025-08-17",
+    "patient_info": {
+      "patient_id": "PA-12345",
+      "first_name": "Jillian",
+      "last_name": "Gonzalez",
+      "date_of_birth": "1991-06-11",
+      "policy_number": "P60578-77"
+    },
+    "provider_name": "Dr. Ava Sharma (Cardiology)",
+    "primary_diagnosis": "Hypertension",
+    "icd_code": "I10",
+    "procedure_description": "Echocardiogram",
+    "cpt_code": "93306",
+    "financials": {
+      "billed_amount": 3102.72,
+      "allowed_amount": 2546.01,
+      "copay": 50.0,
+      "insurance_paid": 2496.01
+    },
+    "extracted_summary": "Claim for Hypertension (I10). Patient presented with symptoms requiring Echocardiogram (93306). Recommended medication: Albuterol HFA.",
+    "note": "CLINICAL NOTE: Patient Jillian Gonzalez (Policy: P60578-77) was seen today, 2025-08-17, by Dr. Ava Sharma (Cardiology). The main subjective complaint was a recurrent flare-up of their **Hypertension** symptoms, which are generally well-managed. Or minute report woman eat those member. Piece next smile spend time wrong dog. Assessment determined the necessity of a diagnostic procedure to confirm the severity: **Echocardiogram** (CPT: 93306). The diagnosis code assigned is **I10**. The patient was advised on the necessity of lifestyle modifications and will be starting the new medication, Amoxicillin (500mg), immediately. Total billed charges for this visit are $3102.72. All staff were informed regarding the high priority of the patient's next appointment."
+  },
+  {
+    "claim_id": "CLM842857947",
+    "claim_date": "2025-09-16",
+    "patient_info": {
+      "patient_id": "PA-12345",
+      "first_name": "Jillian",
+      "last_name": "Gonzalez",
+      "date_of_birth": "1991-06-11",
+      "policy_number": "P60578-77"
+    },
+    "provider_name": "Dr. Ava Sharma (Cardiology)",
+    "primary_diagnosis": "Hypertension",
+    "icd_code": "I10",
+    "procedure_description": "Echocardiogram",
+    "cpt_code": "93306",
+    "financials": {
+      "billed_amount": 993.22,
+      "allowed_amount": 825.37,
+      "copay": 50.0,
+      "insurance_paid": 775.37
+    },
+    "extracted_summary": "Claim for Hypertension (I10). Patient presented with symptoms requiring Echocardiogram (93306). Recommended medication: Sumatriptan (100mg).",
+    "note": "CLINICAL NOTE: Patient Jillian Gonzalez (Policy: P60578-77) was seen today, 2025-09-16, by Dr. Ava Sharma (Cardiology). The main subjective complaint was a recurrent flare-up of their **Hypertension** symptoms, which are generally well-managed. Late realize Congress call large similar weight. Place political mean first when suffer. Assessment determined the necessity of a diagnostic procedure to confirm the severity: **Echocardiogram** (CPT: 93306). The diagnosis code assigned is **I10**. The patient was advised on the necessity of lifestyle modifications and will be starting the new medication, Lisinopril (20mg), immediately. Total billed charges for this visit are $993.22. All staff were informed regarding the high priority of the patient's next appointment."
+  },
+  {
+    "claim_id": "CLM807888691",
+    "claim_date": "2025-07-17",
+    "patient_info": {
+      "patient_id": "PB-24680",
+      "first_name": "George",
+      "last_name": "Macias",
+      "date_of_birth": "2001-09-11",
+      "policy_number": "P83536-43"
+    },
+    "provider_name": "Dr. Marcus Bell (Neurology)",
+    "primary_diagnosis": "Migraine",
+    "icd_code": "G43.909",
+    "procedure_description": "MRI Brain w/o Contrast",
+    "cpt_code": "70551",
+    "financials": {
+      "billed_amount": 3481.46,
+      "allowed_amount": 2436.43,
+      "copay": 75.0,
+      "insurance_paid": 2361.43
+    },
+    "extracted_summary": "Claim for Migraine (G43.909). Patient presented with symptoms requiring MRI Brain w/o Contrast (70551). Recommended medication: Metformin (500mg).",
+    "note": "CLINICAL NOTE: Patient George Macias (Policy: P83536-43) was seen today, 2025-07-17, by Dr. Marcus Bell (Neurology). The main subjective complaint was a recurrent flare-up of their **Migraine** symptoms, which are generally well-managed. Money Democrat tree may wear improve town. Among per pass time certain keep mind eat. Assessment determined the necessity of a diagnostic procedure to confirm the severity: **MRI Brain w/o Contrast** (CPT: 70551). The diagnosis code assigned is **G43.909**. The patient was advised on the necessity of lifestyle modifications and will be starting the new medication, Fluticasone Propionate, immediately. Total billed charges for this visit are $3481.46. All staff were informed regarding the high priority of the patient's next appointment."
+  },
+  {
+    "claim_id": "CLM462364957",
+    "claim_date": "2025-08-17",
+    "patient_info": {
+      "patient_id": "PB-24680",
+      "first_name": "George",
+      "last_name": "Macias",
+      "date_of_birth": "2001-09-11",
+      "policy_number": "P83536-43"
+    },
+    "provider_name": "Dr. Eleanor Vance (Internal Medicine)",
+    "primary_diagnosis": "Acute Sinusitis",
+    "icd_code": "J01.90",
+    "procedure_description": "Office Visit (Established Patient)",
+    "cpt_code": "99214",
+    "financials": {
+      "billed_amount": 2994.59,
+      "allowed_amount": 2198.1,
+      "copay": 25.0,
+      "insurance_paid": 2173.1
+    },
+    "extracted_summary": "Claim for Acute Sinusitis (J01.90). Patient presented with symptoms requiring Office Visit (Established Patient) (99214). Recommended medication: Fluticasone Propionate.",
+    "note": "CLINICAL NOTE: Patient George Macias (Policy: P83536-43) was seen today, 2025-08-17, by Dr. Eleanor Vance (Internal Medicine). The main subjective complaint was a recurrent flare-up of their **Acute Sinusitis** symptoms, which are generally well-managed. Decision practice wind bank national keep mind. Assessment determined the necessity of a diagnostic procedure to confirm the severity: **Office Visit (Established Patient)** (CPT: 99214). The diagnosis code assigned is **J01.90**. The patient was advised on the necessity of lifestyle modifications and will be starting the new medication, Sumatriptan (100mg), immediately. Total billed charges for this visit are $2994.59. All staff were informed regarding the high priority of the patient's next appointment."
+  },
+  {
+    "claim_id": "CLM810722670",
+    "claim_date": "2025-09-16",
+    "patient_info": {
+      "patient_id": "PB-24680",
+      "first_name": "George",
+      "last_name": "Macias",
+      "date_of_birth": "2001-09-11",
+      "policy_number": "P83536-43"
+    },
+    "provider_name": "Dr. Eleanor Vance (Internal Medicine)",
+    "primary_diagnosis": "Type 2 Diabetes",
+    "icd_code": "E11.9",
+    "procedure_description": "Blood Glucose Test",
+    "cpt_code": "82947",
+    "financials": {
+      "billed_amount": 3071.53,
+      "allowed_amount": 2262.79,
+      "copay": 25.0,
+      "insurance_paid": 2237.79
+    },
+    "extracted_summary": "Claim for Type 2 Diabetes (E11.9). Patient presented with symptoms requiring Blood Glucose Test (82947). Recommended medication: Amoxicillin (500mg).",
+    "note": "CLINICAL NOTE: Patient George Macias (Policy: P83536-43) was seen today, 2025-09-16, by Dr. Eleanor Vance (Internal Medicine). The main subjective complaint was a recurrent flare-up of their **Type 2 Diabetes** symptoms, which are generally well-managed. Thank high more agent able. Point recognize own prepare magazine. Assessment determined the necessity of a diagnostic procedure to confirm the severity: **Blood Glucose Test** (CPT: 82947). The diagnosis code assigned is **E11.9**. The patient was advised on the necessity of lifestyle modifications and will be starting the new medication, Atorvastatin (10mg), immediately. Total billed charges for this visit are $3071.53. All staff were informed regarding the high priority of the patient's next appointment."
+  },
+  {
+    "claim_id": "CLM029055437",
+    "claim_date": "2025-07-17",
+    "patient_info": {
+      "patient_id": "PC-13579",
+      "first_name": "Robyn",
+      "last_name": "Brock",
+      "date_of_birth": "1956-09-29",
+      "policy_number": "P34731-23"
+    },
+    "provider_name": "Dr. David Chen (Pulmonology)",
+    "primary_diagnosis": "Asthma",
+    "icd_code": "J45.909",
+    "procedure_description": "Spirometry (Lung Function Test)",
+    "cpt_code": "94010",
+    "financials": {
+      "billed_amount": 710.39,
+      "allowed_amount": 546.02,
+      "copay": 75.0,
+      "insurance_paid": 471.02
+    },
+    "extracted_summary": "Claim for Asthma (J45.909). Patient presented with symptoms requiring Spirometry (Lung Function Test) (94010). Recommended medication: Amoxicillin (500mg).",
+    "note": "CLINICAL NOTE: Patient Robyn Brock (Policy: P34731-23) was seen today, 2025-07-17, by Dr. David Chen (Pulmonology). The main subjective complaint was a recurrent flare-up of their **Asthma** symptoms, which are generally well-managed. Base TV interesting professional federal. Sea of least morning boy idea leg ground. Assessment determined the necessity of a diagnostic procedure to confirm the severity: **Spirometry (Lung Function Test)** (CPT: 94010). The diagnosis code assigned is **J45.909**. The patient was advised on the necessity of lifestyle modifications and will be starting the new medication, Atorvastatin (10mg), immediately. Total billed charges for this visit are $710.39. All staff were informed regarding the high priority of the patient's next appointment."
+  },
+  {
+    "claim_id": "CLM664908853",
+    "claim_date": "2025-08-17",
+    "patient_info": {
+      "patient_id": "PC-13579",
+      "first_name": "Robyn",
+      "last_name": "Brock",
+      "date_of_birth": "1956-09-29",
+      "policy_number": "P34731-23"
+    },
+    "provider_name": "Dr. David Chen (Pulmonology)",
+    "primary_diagnosis": "Asthma",
+    "icd_code": "J45.909",
+    "procedure_description": "Spirometry (Lung Function Test)",
+    "cpt_code": "94010",
+    "financials": {
+      "billed_amount": 1983.59,
+      "allowed_amount": 1358.43,
+      "copay": 50.0,
+      "insurance_paid": 1308.43
+    },
+    "extracted_summary": "Claim for Asthma (J45.909). Patient presented with symptoms requiring Spirometry (Lung Function Test) (94010). Recommended medication: Sumatriptan (100mg).",
+    "note": "CLINICAL NOTE: Patient Robyn Brock (Policy: P34731-23) was seen today, 2025-08-17, by Dr. David Chen (Pulmonology). The main subjective complaint was a recurrent flare-up of their **Asthma** symptoms, which are generally well-managed. See understand majority. Expert partner future environmental successful book. Assessment determined the necessity of a diagnostic procedure to confirm the severity: **Spirometry (Lung Function Test)** (CPT: 94010). The diagnosis code assigned is **J45.909**. The patient was advised on the necessity of lifestyle modifications and will be starting the new medication, Albuterol HFA, immediately. Total billed charges for this visit are $1983.59. All staff were informed regarding the high priority of the patient's next appointment."
+  },
+  {
+    "claim_id": "CLM985795880",
+    "claim_date": "2025-09-16",
+    "patient_info": {
+      "patient_id": "PC-13579",
+      "first_name": "Robyn",
+      "last_name": "Brock",
+      "date_of_birth": "1956-09-29",
+      "policy_number": "P34731-23"
+    },
+    "provider_name": "Dr. David Chen (Pulmonology)",
+    "primary_diagnosis": "Asthma",
+    "icd_code": "J45.909",
+    "procedure_description": "Spirometry (Lung Function Test)",
+    "cpt_code": "94010",
+    "financials": {
+      "billed_amount": 988.56,
+      "allowed_amount": 822.88,
+      "copay": 75.0,
+      "insurance_paid": 747.88
+    },
+    "extracted_summary": "Claim for Asthma (J45.909). Patient presented with symptoms requiring Spirometry (Lung Function Test) (94010). Recommended medication: Fluticasone Propionate.",
+    "note": "CLINICAL NOTE: Patient Robyn Brock (Policy: P34731-23) was seen today, 2025-09-16, by Dr. David Chen (Pulmonology). The main subjective complaint was a recurrent flare-up of their **Asthma** symptoms, which are generally well-managed. Must suddenly popular foreign bring miss within. Ahead candidate test read table. Assessment determined the necessity of a diagnostic procedure to confirm the severity: **Spirometry (Lung Function Test)** (CPT: 94010). The diagnosis code assigned is **J45.909**. The patient was advised on the necessity of lifestyle modifications and will be starting the new medication, Lisinopril (20mg), immediately. Total billed charges for this visit are $988.56. All staff were informed regarding the high priority of the patient's next appointment."
+  },
+  {
+    "claim_id": "CLM186222354",
+    "claim_date": "2025-06-17",
+    "patient_info": {
+      "patient_id": "PD-09876",
+      "first_name": "Brenda",
+      "last_name": "Gonzalez",
+      "date_of_birth": "1977-03-27",
+      "policy_number": "P29171-33"
+    },
+    "provider_name": "Central City Hospital",
+    "primary_diagnosis": "Acute Sinusitis",
+    "icd_code": "J01.90",
+    "procedure_description": "Office Visit (Established Patient)",
+    "cpt_code": "99214",
+    "financials": {
+      "billed_amount": 2742.77,
+      "allowed_amount": 1851.58,
+      "copay": 75.0,
+      "insurance_paid": 1776.58
+    },
+    "extracted_summary": "Claim for Acute Sinusitis (J01.90). Patient presented with symptoms requiring Office Visit (Established Patient) (99214). Recommended medication: Atorvastatin (10mg).",
+    "note": "CLINICAL NOTE: Patient Brenda Gonzalez (Policy: P29171-33) was seen today, 2025-06-17, by Central City Hospital. The main subjective complaint was a recurrent flare-up of their **Acute Sinusitis** symptoms, which are generally well-managed. Do woman high. Drop add much you she. Assessment determined the necessity of a diagnostic procedure to confirm the severity: **Office Visit (Established Patient)** (CPT: 99214). The diagnosis code assigned is **J01.90**. The patient was advised on the necessity of lifestyle modifications and will be starting the new medication, Amoxicillin (500mg), immediately. Total billed charges for this visit are $2742.77. All staff were informed regarding the high priority of the patient's next appointment."
+  },
+  {
+    "claim_id": "CLM625677757",
+    "claim_date": "2025-09-16",
+    "patient_info": {
+      "patient_id": "PD-09876",
+      "first_name": "Brenda",
+      "last_name": "Gonzalez",
+      "date_of_birth": "1977-03-27",
+      "policy_number": "P29171-33"
+    },
+    "provider_name": "Dr. Marcus Bell (Neurology)",
+    "primary_diagnosis": "Migraine",
+    "icd_code": "G43.909",
+    "procedure_description": "MRI Brain w/o Contrast",
+    "cpt_code": "70551",
+    "financials": {
+      "billed_amount": 2793.58,
+      "allowed_amount": 2008.3,
+      "copay": 25.0,
+      "insurance_paid": 1983.3
+    },
+    "extracted_summary": "Claim for Migraine (G43.909). Patient presented with symptoms requiring MRI Brain w/o Contrast (70551). Recommended medication: Amoxicillin (500mg).",
+    "note": "CLINICAL NOTE: Patient Brenda Gonzalez (Policy: P29171-33) was seen today, 2025-09-16, by Dr. Marcus Bell (Neurology). The main subjective complaint was a recurrent flare-up of their **Migraine** symptoms, which are generally well-managed. Left take teach think money risk note. Assessment determined the necessity of a diagnostic procedure to confirm the severity: **MRI Brain w/o Contrast** (CPT: 70551). The diagnosis code assigned is **G43.909**. The patient was advised on the necessity of lifestyle modifications and will be starting the new medication, Lisinopril (20mg), immediately. Total billed charges for this visit are $2793.58. All staff were informed regarding the high priority of the patient's next appointment."
+  },
+  {
+    "claim_id": "CLM881090306",
+    "claim_date": "2025-08-17",
+    "patient_info": {
+      "patient_id": "PE-54321",
+      "first_name": "Daniel",
+      "last_name": "Wells",
+      "date_of_birth": "1974-06-11",
+      "policy_number": "P44716-28"
+    },
+    "provider_name": "Dr. Eleanor Vance (Internal Medicine)",
+    "primary_diagnosis": "Type 2 Diabetes",
+    "icd_code": "E11.9",
+    "procedure_description": "Blood Glucose Test",
+    "cpt_code": "82947",
+    "financials": {
+      "billed_amount": 2050.97,
+      "allowed_amount": 1610.27,
+      "copay": 25.0,
+      "insurance_paid": 1585.27
+    },
+    "extracted_summary": "Claim for Type 2 Diabetes (E11.9). Patient presented with symptoms requiring Blood Glucose Test (82947). Recommended medication: Amoxicillin (500mg).",
+    "note": "CLINICAL NOTE: Patient Daniel Wells (Policy: P44716-28) was seen today, 2025-08-17, by Dr. Eleanor Vance (Internal Medicine). The main subjective complaint was a recurrent flare-up of their **Type 2 Diabetes** symptoms, which are generally well-managed. Short prevent cover. Evening address prevent concern their. Assessment determined the necessity of a diagnostic procedure to confirm the severity: **Blood Glucose Test** (CPT: 82947). The diagnosis code assigned is **E11.9**. The patient was advised on the necessity of lifestyle modifications and will be starting the new medication, Lisinopril (20mg), immediately. Total billed charges for this visit are $2050.97. All staff were informed regarding the high priority of the patient's next appointment."
+  },
+  {
+    "claim_id": "CLM872845099",
+    "claim_date": "2025-09-16",
+    "patient_info": {
+      "patient_id": "PE-54321",
+      "first_name": "Daniel",
+      "last_name": "Wells",
+      "date_of_birth": "1974-06-11",
+      "policy_number": "P44716-28"
+    },
+    "provider_name": "Dr. Eleanor Vance (Internal Medicine)",
+    "primary_diagnosis": "Type 2 Diabetes",
+    "icd_code": "E11.9",
+    "procedure_description": "Blood Glucose Test",
+    "cpt_code": "82947",
+    "financials": {
+      "billed_amount": 3293.17,
+      "allowed_amount": 2274.62,
+      "copay": 50.0,
+      "insurance_paid": 2224.62
+    },
+    "extracted_summary": "Claim for Type 2 Diabetes (E11.9). Patient presented with symptoms requiring Blood Glucose Test (82947). Recommended medication: Atorvastatin (10mg).",
+    "note": "CLINICAL NOTE: Patient Daniel Wells (Policy: P44716-28) was seen today, 2025-09-16, by Dr. Eleanor Vance (Internal Medicine). The main subjective complaint was a recurrent flare-up of their **Type 2 Diabetes** symptoms, which are generally well-managed. Nothing plant guy total south relate oil. Assessment determined the necessity of a diagnostic procedure to confirm the severity: **Blood Glucose Test** (CPT: 82947). The diagnosis code assigned is **E11.9**. The patient was advised on the necessity of lifestyle modifications and will be starting the new medication, Lisinopril (20mg), immediately. Total billed charges for this visit are $3293.17. All staff were informed regarding the high priority of the patient's next appointment."
+  }
+]
