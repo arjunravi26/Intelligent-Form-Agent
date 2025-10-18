@@ -8,7 +8,7 @@ class AbstractiveQA:
     def __init__(self,claim_data:str):
         self.system_prompt = read_config('SYSTEM_PROMPT_ABSTRACIVE_QA')
         if not self.system_prompt:
-            raise "No System prompt available."
+            raise ValueError("No System prompt available.")
         self.model = read_config("LLM_MODEL")
         self.claim_data = claim_data
 
