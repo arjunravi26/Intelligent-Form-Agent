@@ -5,19 +5,20 @@ import json
 
 
 class AbstractiveQA:
-    def __init__(self):
+    def __init__(self,claim_data:str):
         self.system_prompt = read_config('SYSTEM_PROMPT_ABSTRACIVE_QA')
         if not self.system_prompt:
             raise "No System prompt available."
         self.model = read_config("LLM_MODEL")
+        self.claim_data = claim_data
 
-    def qa(self, data: str, question: str):
+    def qa(self, question: str):
         try:
 
             user_query = (
                 f"Based on the following clinical note, please answer my question.\n\n"
                 f"--- CLAIM DETAILS ---\n"
-                f"{data}\n\n"
+                f"{self.claim_data}\n\n"
                 f"--- QUESTION ---\n"
                 f"{question}"
             )
