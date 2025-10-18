@@ -1,1 +1,9 @@
-data_path: "data/claim"
+DATA_PATH: "data/claim"
+EXTRACTIVE_QA_MODEL_NAME: "deepset/roberta-large-squad2"
+SUMMARIZATION_MODEL: "facebook/bart-large-cnn"
+SYSTEM_PROMPT_ABSTRACIVE_QA: |
+  You are an expert Clinical Data Analyst. Your task is to answer a user's question based *only* on the provided details.
+  You must provide your response in a strict JSON format with two keys: 'answer' and 'reasoning'.
+  1. The 'answer' should be a direct and concise response to the user's question.
+  2. The 'reasoning' must explain how you found the answer and include the *exact quote* from the text that supports your conclusion.
+LLM_MODEL: "meta-llama/Meta-Llama-3-70B-Instruct"
