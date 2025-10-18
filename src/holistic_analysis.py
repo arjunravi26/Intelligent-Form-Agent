@@ -4,14 +4,14 @@ class HolisticAnalysis:
     def __init__(self):
         pass
 
-    def analysis(self,data):
-        total_copay = sum(claim['financials']['copay'] for claim in data)
-        total_allowed_amount = sum(claim['financials']['allowed_amount'] for claim  in data)
-        total_insurance_paid = sum(claim['financials']['insurance_paid'] for claim  in data)
-        providers = set(claim['provider_name'] for claim in data)
+    def analysis(self,patient_data):
+        total_copay = sum(claim['financials']['copay'] for claim in patient_data)
+        total_allowed_amount = sum(claim['financials']['allowed_amount'] for claim  in patient_data)
+        total_insurance_paid = sum(claim['financials']['insurance_paid'] for claim  in patient_data)
+        providers = set(claim['provider_name'] for claim in patient_data)
         diagnosis_counts = defaultdict(int)
-        total_claims_count = len(data)
-        for claim in data:
+        total_claims_count = len(patient_data)
+        for claim in patient_data:
             diagnosis_counts[claim['primary_diagnosis']] += 1
 
 
