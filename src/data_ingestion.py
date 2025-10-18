@@ -7,13 +7,13 @@ class DataIngestion:
 
     def __init__(self, patient_id):
         self.patient_id = patient_id
-        self.base_dir = read_config('data_path')
+        self.base_dir = read_config('DATA_PATH')
         self.patient_dir = os.path.join(self.base_dir, self.patient_id)
 
     def ingest_claim_data(self, claim_path: str):
         "Ingest provided claim data files"
         try:
-            
+
             if not claim_path:
                 return None
             full_claim_path = os.path.join(self.patient_dir, claim_path)
