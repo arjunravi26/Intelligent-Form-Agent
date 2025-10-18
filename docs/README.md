@@ -69,10 +69,10 @@ The agent is executed via the `main.py` script. The specific arguments will depe
 ```bash
 python -m main "<Option>" "<Your question>"
 ```
+-----
 
 **Options** are `[qa, advanced_qa, summary, analysis]`
 **Question** are only for `qa` and `advanced_qa`
------
 
 ## Example Queries and Expected Outputs
 
