@@ -1,22 +1,19 @@
 from src.config import read_config
 from huggingface_hub import InferenceClient
-import os
+from src.utils.utils import process_data
 from dotenv import load_dotenv
+import os
+
 
 
 class ExtractiveQA:
     def __init__(self, claim_data: str):
-        self.claim_data = claim_data if isinstance(
-            claim_data, str) else str(claim_data)
-        if isinstance(self.claim_data, dict):
-            self.claim_data = self._process_data()
+        if isinstance(claim_data, dict):
+            self.claim_data = process_data(data=claim_data)
+        else:
+            self.claim_data = claim_data
         self.model_name = read_config('EXTRACTIVE_QA_MODEL_NAME')
 
-    def _process_data(self):
-        details_str = "\n".join(
-            f"{key}: {value}" for key, value in self.claim_data.items() if key != "Clinical_note")
-        context = f"{details_str}\nClinical Note:\n{self.claim_data.get('Clinical_note', '')}"
-        return context
 
     def qa(self, question: str):
         try:
