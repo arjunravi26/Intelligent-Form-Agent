@@ -179,3 +179,8 @@ The system operates using a modular pipeline to process raw forms into structure
       * Synthesizes key metrics (totals, counts, unique values) to produce a **Holistic Report**.
 
 This modular architecture ensures that all core functions are powered by a unified data layer and leverages the specific strengths of various **Gen AI and NLP models** for distinct tasks (extraction, abstraction, and synthesis).
+
+## Conclusion and Contribution
+The Intelligent Form Agent moves beyond simple data capture, providing a robust pipeline for transforming raw form documents into actionable business intelligence. By integrating advanced extractive and abstractive models, the agent ensures that complex questions are answered with both precision and reasoning, and that insights across multiple claims are synthesized effectively.
+
+We encourage you to clone the repository, follow the Setup Instructions, and experiment with the various modes (qa, advanced_qa, summary, and analysis).
